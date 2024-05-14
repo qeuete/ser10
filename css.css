@@ -1,0 +1,59 @@
+body {
+    background-color: #c7ddf1;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #app {
+    background-color: #d1e9ff;
+    max-width: 600px;
+    align-self: center;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #1c0081;
+    border-radius: 5px;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  form input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  form button {
+    background-color: #4d30b8;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #1c0081;
+  }
+  
+  .computer-item {
+    margin-bottom: 10px;
+    border: 1px solid #1c0081;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .computer-item button {
+    background-color: #4d30b8;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .computer-item button:hover {
+    background-color: #1c0081;
+  }
